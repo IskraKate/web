@@ -7,8 +7,12 @@ ul.first{
     list-style-type: upper-roman;
 }
 
-.letter{
+.bigLetter{
     list-style-type: upper-alpha;
+}
+
+.smallLetter{
+    list-style-type: lower-alpha;
 }
 
 .ref{
