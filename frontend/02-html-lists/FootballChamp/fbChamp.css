@@ -1,0 +1,76 @@
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    margin-left: 4%;
+}
+
+span{
+    font-weight: 600;
+    font-size: large;
+}
+
+.poland{
+    list-style-image: url("resources/flags/poland.png");
+}
+
+.russia{
+    list-style-image: url("Resources/flags/russia.png");
+}
+
+.czech{
+    list-style-image: url("Resources/flags/czech.png");
+}
+
+.greece{
+    list-style-image: url("Resources/flags/greece.png");
+}
+
+.german{
+    list-style-image: url("Resources/flags/germany.png");
+}
+
+.netherlands{
+    list-style-image: url("Resources/flags/netherlands.png");
+}
+
+.portugal{
+    list-style-image: url("Resources/flags/portugal.png");
+}
+
+.denmark{
+    list-style-image: url("Resources/flags/denmark.png");
+}
+
+.spain{
+    list-style-image: url("Resources/flags/spain.png");
+}
+
+.italy{
+    list-style-image: url("Resources/flags/italy.png");
+}
+
+.croatia{
+    list-style-image: url("Resources/flags/croatia.png");
+}
+
+.ireland{
+    list-style-image: url("Resources/flags/ireland.png");
+}
+
+.ukraine{
+    list-style-image: url("Resources/flags/ukraine.png");
+}
+
+.england{
+    list-style-image: url("Resources/flags/england.png");
+}
+
+.france{
+    list-style-image: url("Resources/flags/france.png");
+}
+
+.sweden{
+    list-style-image: url("Resources/flags/sweden.png");
+}
