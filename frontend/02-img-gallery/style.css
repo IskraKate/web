@@ -25,7 +25,7 @@ a{
 }
 
 .btn{
-    margin-left: 80px;
+    margin-left: 5.3%;
 }
 
 .center{
@@ -40,8 +40,8 @@ a{
 }
 
 a.button{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
 	color: #fafafa;
 	padding: 7px 10px;
 	display: inline-block;
