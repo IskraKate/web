@@ -1,0 +1,121 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+table, th, td {
+    border-collapse: collapse;
+}
+
+td,th{
+    padding: 0.1%;
+}
+
+table{
+    width: 100%;
+}
+
+.bck{
+    padding: 2%;
+    text-align: center;
+    color: white;
+    background-image: url("images/leaves.jpg");
+}
+
+td.ulStyle{
+    vertical-align: top;
+    width: 15%;
+    padding-top: 1%;
+}
+
+ul.style{
+    list-style-image: url("images/arrow.png");
+    font-size: larger;
+}
+
+a.button{
+	font-size: 100%;
+	color: #ffffff;
+	padding: 15px 40px;
+	display: inline-block;
+	text-decoration: none;
+	border-radius: 15px;
+	box-shadow: 0px 3px #0a2f0b;
+    background: #438446;
+    margin-top: 30px;
+}
+
+a.button:hover {
+	background:#3f6441;
+}
+
+a.button:active {
+	position: relative;
+	top: 6px;
+	box-shadow: 0px 0px 0 #0a2f0b;
+	background: #0a2f0b;
+}
+
+a.button.nothing{
+    box-shadow: 0px 3px #0a2f0b;
+    background: #0a2f0b;
+}
+
+a.button:hover {
+	background: #75b878;
+}
+
+a.button.center{
+    margin-left: 25%;
+}
+
+a.button.many{
+    margin-left: 1%;
+    margin-top: 3%;
+}
+
+a.button.small{
+    padding: 5px 5px;
+}
+
+.topAlign{
+    vertical-align: top;
+}
+
+.txtStyle1{
+    text-align: right;
+    padding: 1%;
+}
+
+.searcher{
+    margin-left: 1%;
+}
+
+.bckGrnd{
+    background-image: url("images/monstera.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.down{
+    padding: 3%;
+    text-align: center;
+}
+
+a.down{
+    padding: 3%;
+}
+
+.bigTextBlock{
+    margin-top: 3%;
+    margin-left: 3%;
+    text-align: right;
+}
+
+
